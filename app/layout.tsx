@@ -1,5 +1,5 @@
 import "./globals.css";
-
+// Layout
 import { Footer, NavBar } from "@components";
 
 export const metadata = {
